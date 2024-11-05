@@ -10,4 +10,3 @@ Thanks to scraping on sites that provide company email formats, a bulk generatio
 I then deployed the code on Azure Functions to make the database development process automatic: all you have to do is upload your LinkedIN contact extractions and a few minutes later, your contacts will have a location and a business email address assigned to them and will be available directly on the CRM interface. 
 
 
-Translated with DeepL.com (free version)
